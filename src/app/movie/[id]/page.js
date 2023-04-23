@@ -1,6 +1,11 @@
 import React from "react";
 import Image from "next/image";
 import { AiFillHeart } from "react-icons/ai";
+
+
+
+
+
 const MoviePage = async ({ params }) => {
   const movieId = params.id;
   //get movie

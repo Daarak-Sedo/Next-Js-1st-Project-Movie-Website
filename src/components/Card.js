@@ -3,6 +3,7 @@ import Link from "next/link";
 import React from "react";
 import { AiFillHeart } from "react-icons/ai";
 
+
 const Card = ({ result }) => {
   return (
     <div
